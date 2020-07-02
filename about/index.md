@@ -32,6 +32,6 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 
 ## Getting Started
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+Contact me at : 
       
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
